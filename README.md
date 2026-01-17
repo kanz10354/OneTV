@@ -8,9 +8,9 @@ OneTV is a modern streaming application for macOS with advanced features includi
 
 **macOS:**
 - **Intel (x64):** [OneTV-1.0.0.dmg](OneTV-1.0.0.dmg) (248 MB)
-  - MD5: `7a0dc20b522461ea31340a17f68cf77d`
+  - MD5: `8ec350701c7c100aaa8dea113beac98b`
 - **Apple Silicon (arm64):** [OneTV-1.0.0-arm64.dmg](OneTV-1.0.0-arm64.dmg) (243 MB)
-  - MD5: `eb279024fc0fa0a2397acabe6409e494`
+  - MD5: `0ce1d889bc6d711ce8edc755ccedb752`
 
 Both DMGs are fully **code-signed** and **notarized** by Apple. No security warnings during installation.
 
